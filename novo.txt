@@ -4,3 +4,5 @@ Modificado..
 
 Nova mensagem
 Outra mensagem
+
+Edita arquivo
